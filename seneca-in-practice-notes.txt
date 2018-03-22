@@ -1,0 +1,6 @@
+seneca-in-practice
+
+
+
+npm install seneca-in-practice -g
+Run seneca-in-practice
